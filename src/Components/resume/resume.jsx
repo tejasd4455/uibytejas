@@ -60,7 +60,7 @@ const TimelineItem = ({ title, institution, duration, borderColor, isActive }) =
       <div className={`absolute left-[-0.75rem] top-2 w-0 h-0 border-t-[8px] border-b-[8px] border-l-[12px] border-t-transparent border-b-transparent ${borderColor}`}></div>
       <div className="ml-4">
         <h3 className="text-lg sm:text-xl    font-semibold">{title}</h3>
-        <p className="text-sm text-neutral-950">{institution}</p>
+        <p className="text-sm text-neutral-960">{institution}</p>
         {duration && <p className="text-sm text-gray-500">{duration}</p>}
         {isActive && (
           <p className="relative bg-green-100 inline-flex items-center gap-2 text-green-800 text-sm font-bold border border-green-900/50 rounded-full px-3 py-1 hover:scale-105 transition mt-2">
