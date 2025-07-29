@@ -1,0 +1,13 @@
+.first-letter-custom::first-letter {
+  float: left;
+  margin-right: 0.5rem; /* Adjust as needed */
+  font-size: 3.5rem; /* Adjust to your desired size */
+  font-weight: bold;
+  color: #1f2937; /* Tailwind's gray-900 */
+  line-height: 1; /* Adjust line height if necessary */
+}
+
+.first-line-custom::first-line {
+  text-transform: uppercase;
+  letter-spacing: 0.05em; /* Adjust as needed */
+}
