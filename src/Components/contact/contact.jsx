@@ -66,7 +66,7 @@ const ContactSection = () => {
           </h3>
           <p className="text-black tracking-widest first-letter:float-left first-letter:mr-1 first-letter:text-5xl first-letter:font-bold first-letter:text-gray-900 first-line:tracking-widest   ">
             Hi, I'm Tejas Deshmukh  a passionate Frontend Web Developer who loves turning ideas into beautiful, responsive, and user-friendly websites.With strong skills in React, Tailwind CSS, and modern UI/UX principles, I help bring digital experiences to life. Whether it's a portfolio, business site, or a custom project  I’m excited to collaborate and build something impactful. <br/>
-            <mark className='font-light text-sm'>Let’s connect and build something amazing together...👇</mark
+            <mark className='font-light text-sm'>Let’s connect and build something amazing together...👇</mark>
 
           </p>
 
